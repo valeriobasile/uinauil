@@ -1,4 +1,4 @@
-# UINAUIL project
+# UINAUIL
 
 **UINAUIL** (*Unified Interactive Natural Understanding of the Italian Language*) is a Python module for downloading language resources in order to train, evaluate, and analyze natural language understanding systems for the Italian Laguage, inspired by the [GLUE](https://gluebenchmark.com/) and [SuperGLUE](https://super.gluebenchmark.com/) benchmarks. It is based on the [European Language Grid](https://www.european-language-grid.eu/) (**ELG**) platform, that provides access to Language Technology services and resources from all over Europe. 
 
