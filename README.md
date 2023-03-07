@@ -177,4 +177,4 @@ If you use `uinauil` in a scientific publication, we would appreciate citations 
 
 ## License
 
-[Apache License 2.0](LICENSE)
+[GNU General Public License v3.0](LICENSE)
