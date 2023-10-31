@@ -161,17 +161,29 @@ The `uinauil` package has been created by [Valerio Basile](https://valeriobasile
 
 ## Citation
 
-If you use `uinauil` in a scientific publication, we would appreciate citations of our paper:
+If you use `uinauil` in a scientific publication, we would appreciate citations of our [paper](https://aclanthology.org/2023.acl-demo.33.pdf):
 ```bibtex
-@inproceedings{???,
-    title = "???",
-    author = "???",
-    booktitle = "???",
-    year = "202x",
-    publisher = "???",
-    pages = "???",
-    url = "???"
+@inproceedings{basile-etal-2023-uinauil,
+    title = "{UINAUIL}: A Unified Benchmark for {I}talian Natural Language Understanding",
+    author = "Basile, Valerio  and
+      Bioglio, Livio  and
+      Bosca, Alessio  and
+      Bosco, Cristina  and
+      Patti, Viviana",
+    editor = "Bollegala, Danushka  and
+      Huang, Ruihong  and
+      Ritter, Alan",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-demo.33",
+    doi = "10.18653/v1/2023.acl-demo.33",
+    pages = "348--356"
 }
+
+
 ```
 
 
