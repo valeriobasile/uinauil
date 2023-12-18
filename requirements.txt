@@ -1,2 +1,2 @@
-elg==0.4.22
+elg==0.3.6
 scikit_learn==1.2.1
